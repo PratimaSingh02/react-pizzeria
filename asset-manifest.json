@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react-pizzeria/static/css/main.84c68290.chunk.css",
+    "main.js": "/react-pizzeria/static/js/main.7d27615e.chunk.js",
+    "main.js.map": "/react-pizzeria/static/js/main.7d27615e.chunk.js.map",
+    "runtime-main.js": "/react-pizzeria/static/js/runtime-main.078acd92.js",
+    "runtime-main.js.map": "/react-pizzeria/static/js/runtime-main.078acd92.js.map",
+    "static/js/2.03d0e0fe.chunk.js": "/react-pizzeria/static/js/2.03d0e0fe.chunk.js",
+    "static/js/2.03d0e0fe.chunk.js.map": "/react-pizzeria/static/js/2.03d0e0fe.chunk.js.map",
+    "static/js/3.c35514b4.chunk.js": "/react-pizzeria/static/js/3.c35514b4.chunk.js",
+    "static/js/3.c35514b4.chunk.js.map": "/react-pizzeria/static/js/3.c35514b4.chunk.js.map",
+    "index.html": "/react-pizzeria/index.html",
+    "static/css/main.84c68290.chunk.css.map": "/react-pizzeria/static/css/main.84c68290.chunk.css.map",
+    "static/js/2.03d0e0fe.chunk.js.LICENSE.txt": "/react-pizzeria/static/js/2.03d0e0fe.chunk.js.LICENSE.txt",
+    "static/media/expensive.6449ceef.jpg": "/react-pizzeria/static/media/expensive.6449ceef.jpg",
+    "static/media/margherita.683bc9bb.jpg": "/react-pizzeria/static/media/margherita.683bc9bb.jpg",
+    "static/media/multiplePizzas.490709e2.jpeg": "/react-pizzeria/static/media/multiplePizzas.490709e2.jpeg",
+    "static/media/pedrotechspecial.425951cb.jpg": "/react-pizzeria/static/media/pedrotechspecial.425951cb.jpg",
+    "static/media/pepperoni.d173e5db.jpg": "/react-pizzeria/static/media/pepperoni.d173e5db.jpg",
+    "static/media/pineapple.a01ab9be.jpg": "/react-pizzeria/static/media/pineapple.a01ab9be.jpg",
+    "static/media/pizza.21a1098f.jpeg": "/react-pizzeria/static/media/pizza.21a1098f.jpeg",
+    "static/media/pizzaLeft.24b07891.jpg": "/react-pizzeria/static/media/pizzaLeft.24b07891.jpg",
+    "static/media/pizzaLogo.fcdc67e6.png": "/react-pizzeria/static/media/pizzaLogo.fcdc67e6.png",
+    "static/media/vegan.52cbfe9e.jpg": "/react-pizzeria/static/media/vegan.52cbfe9e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.078acd92.js",
+    "static/js/2.03d0e0fe.chunk.js",
+    "static/css/main.84c68290.chunk.css",
+    "static/js/main.7d27615e.chunk.js"
+  ]
+}
